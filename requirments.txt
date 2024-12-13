@@ -1,0 +1,11 @@
+streamlit 
+langchain 
+langchain_ollama
+langchain_groq
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+undetected_chromedriver
+langchain_google_genai
